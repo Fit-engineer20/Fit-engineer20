@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there 👋 , myself Bhavy Rastogi
 
 - 🔭 I’m currently working on React
 - 🌱 I’m currently learning React animations with framer motion
