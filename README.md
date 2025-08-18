@@ -1,8 +1,3 @@
 ### Hi there 👋 , myself Bhavy Rastogi
 
-- 🔭 I’m currently working on React
-- 🌱 I’m currently learning React animations with framer motion
-- 👯 I’m looking to collaborate on Web D projects
-- 💬 Ask me about Data structures in c++ , HTML,CSS,Javascript,React
-- 📫 How to reach me: instagram->@the.fit_engineer, Facebook/LinkedIn-> Bhavy Rastogi
-- ⚡ Fun fact: I am a gym enthusiast
+Software Engineer with 2 years of full-stack development experience, combining expertise in building scalable backend services and dynamic frontend interfaces with a growing focus on data science and AI. Proficient in SpringBoot, React, Azure, Docker, Kubernetes, and PostgreSQL, with experience designing internal tools that streamline operations and improve reliability. Actively expanding skills in data analysis, machine learning, and large language models (LLMs), with a strong interest in applying AI-driven solutions to enhance product functionality and user experience.
